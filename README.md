@@ -7,7 +7,7 @@ This is a little project I've been working on to learn front-end development wit
 Trades data, the trades have been placed by the user, is acquired from a mock rest endpoint and presented to the user as a donut chart, showing the allocation of a portfolio: 
 
 <div align="center"> 
-<img src="onut_chart.jpg">
+<img src="donut_chart.jpg">
 </div>
 
 Users can click on the donut chart and will be taken to a table showing all the trades relating to this particular ticker:
